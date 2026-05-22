@@ -647,8 +647,7 @@ def gerar_pdf(df, kpis, fig_barras=None, fig_pizza=None, fig_treemap=None):
     pdf.cell(0, 6, txt="Projeto de Extensao - Sistemas de Informacao e Sociedade", ln=True, align="C")
     pdf.cell(0, 6, txt="Estacio (UNESA) - Analise e Desenvolvimento de Sistemas", ln=True, align="C")
     pdf.cell(0, 6, txt="Desenvolvido por James Soares Costa", ln=True, align="C")
-
-    return pdf.output()
+    return bytes(pdf.output())
 
 
 # ============================================================
