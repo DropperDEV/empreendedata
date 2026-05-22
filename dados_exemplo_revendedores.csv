@@ -1,0 +1,21 @@
+Produto,Categoria,Quantidade,Valor_Unitario,Valor_Total,Status,Cliente,Data
+Perfume Masculino 100ml,Perfumaria,3,89.90,269.70,Pago,Maria Silva,2025-05-01
+Caixa Bombom Cacau Show,Chocolates,5,45.00,225.00,Pago,João Santos,2025-05-02
+Hidratante Corporal,Cosméticos,2,35.50,71.00,Pendente,Ana Oliveira,2025-05-03
+Perfume Feminino 50ml,Perfumaria,1,120.00,120.00,Pago,Carlos Lima,2025-05-04
+Trufas Sortidas,Chocolates,10,8.50,85.00,Pago,Fernanda Costa,2025-05-05
+Kit Maquiagem Básico,Cosméticos,1,78.00,78.00,Cancelado,Patrícia Souza,2025-05-06
+Creme Antissinais,Cosméticos,2,55.00,110.00,Pago,Roberto Alves,2025-05-07
+Ovo de Páscoa Trufado,Chocolates,8,32.00,256.00,Pago,Lucia Ferreira,2025-05-08
+Perfume Importado,Perfumaria,1,199.90,199.90,Pendente,Diego Martins,2025-05-09
+Batom Matte Kit 5un,Cosméticos,3,42.00,126.00,Pago,Camila Rocha,2025-05-10
+Caixa Presente Cacau,Chocolates,2,65.00,130.00,Pago,Pedro Nascimento,2025-05-11
+Perfume Masculino 50ml,Perfumaria,2,65.00,130.00,Pago,Amanda Barbosa,2025-05-12
+Barra Chocolate 70%,Chocolates,15,12.00,180.00,Pago,Thiago Mendes,2025-05-13
+Kit Skincare Completo,Cosméticos,1,145.00,145.00,Pendente,Juliana Cardoso,2025-05-14
+Desodorante Roll-on,Cosméticos,4,18.90,75.60,Pago,Marcos Pereira,2025-05-15
+Caixa Alfajor,Chocolates,6,15.00,90.00,Pago,Bruna Ribeiro,2025-05-16
+Eau de Toilette Unissex,Perfumaria,1,89.00,89.00,Pago,Rafael Gomes,2025-05-17
+Protetor Solar Facial,Cosméticos,2,48.00,96.00,Cancelado,Isabela Araujo,2025-05-18
+Tablete Chocolate Branco,Chocolates,12,9.90,118.80,Pago,Gustavo Dias,2025-05-19
+Perfume Feminino 100ml,Perfumaria,1,150.00,150.00,Pago,Larissa Campos,2025-05-20
